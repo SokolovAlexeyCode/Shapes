@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Shapes>
+	<Rectangle x="10" y="10" h="20" w="80" />
+	<Rectangle x="40" y="30" h="60" w="20" />
+	<Circle x="90" y="10" r="42"/>
+	<Rectangle x="180" y="10" h="80" w="20" />
+	<Circle x="190" y="10" r="30"/>
+	
+	<Rectangle x="10" y="110" h="20" w="80" />
+	<Rectangle x="10" y="130" h="50" w="10" />
+	<Rectangle x="10" y="180" h="20" w="80" />
+	<Rectangle x="80" y="200" h="50" w="10" />
+	<Rectangle x="10" y="250" h="20" w="80" />
+	
+	<Rectangle x="110" y="110" h="70" w="10" />
+	<Rectangle x="110" y="180" h="20" w="80" />
+	<Rectangle x="180" y="110" h="70" w="10" />
+	<Rectangle x="180" y="200" h="70" w="10" />
+	
+	<Rectangle x="210" y="110" h="20" w="80" />
+	<Rectangle x="210" y="130" h="50" w="10" />
+	<Rectangle x="210" y="180" h="20" w="80" />
+	<Rectangle x="280" y="200" h="50" w="10" />
+	<Rectangle x="210" y="250" h="20" w="80" />
+	
+	<Rectangle x="310" y="110" h="20" w="100" />
+	<Rectangle x="355" y="130" h="138" w="10" />
+	
+	<Rectangle x="430" y="110" h="158" w="10" />
+	<Rectangle x="440" y="110" h="20" w="40" />
+	<Rectangle x="440" y="170" h="20" w="40" />
+	<Rectangle x="440" y="248" h="20" w="40" />
+	
+	<Rectangle x="500" y="110" h="158" w="10" />
+	<Rectangle x="650" y="110" h="158" w="10" />
+	<Triangle x1="650" y1="110" x2="580" y2="200" x3="510" y3="110"/>
+	
+	<Rectangle x="700" y="110" h="20" w="80" />
+	<Rectangle x="700" y="130" h="50" w="10" />
+	<Rectangle x="700" y="180" h="20" w="80" />
+	<Rectangle x="770" y="200" h="50" w="10" />
+	<Rectangle x="700" y="250" h="20" w="80" />
+	
+</Shapes>
