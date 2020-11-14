@@ -52,7 +52,7 @@
     <Compile Include="Interfaces\IShapesFactory.cs" />
     <Compile Include="Classes\Factories\ShapesFromLinesFactory.cs" />
     <Compile Include="Classes\Factories\ShapesFromXmlFactory.cs" />
-    <Compile Include="Classes\ShapesFromXml.cs" />
+    <Compile Include="Classes\TechnicalDetails\ShapesFromXml.cs" />
     <Compile Include="Classes\Singleton\Singleton.cs" />
     <Compile Include="Interfaces\IShape.cs" />
     <Compile Include="Classes\Shapes\Rectangle.cs" />

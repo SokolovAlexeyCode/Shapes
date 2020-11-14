@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Xml.Serialization;
 using TopSystemsOOPExample.Classes.Shapes;
+using TopSystemsOOPExample.Classes.TechnicalDetails;
 using TopSystemsOOPExample.Interfaces;
 
 namespace TopSystemsOOPExample.Classes.Factories
